@@ -17,9 +17,7 @@ badge&amp;logo=git&amp;logoColor=white)
 stats.vercel.app/api?username=renukacsit&amp;show_icons=true&amp;theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-
 langs/?username=renukacsit&amp;layout=compact)
- Skills & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-
-badge&amp;logo=java&amp;logoColor=white)
+ 
  Connect with Me- ✉️ Email: vvineela_cse2305k0@mgit.ac.in- �� LinkedIn: [Vineela Vinjam](https://www.linkedin.com/in/vineela-vinjam-9781b9379/)
 <!--
 **VineelaVinjam/VineelaVinjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

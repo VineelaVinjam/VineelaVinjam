@@ -23,6 +23,8 @@ stats.vercel.app/api?username=renuka1163&amp;show_icons=true)
  Connect with Me- ✉️ Email: vvineela_cse2305k0@mgit.ac.in- �� LinkedIn: [Vineela Vinjam](https://www.linkedin.com/in/vineela-vinjam-9781b9379/)
 <!--
 **VineelaVinjam/VineelaVinjam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub Stats](https://github-readme-
+stats.vercel.app/api?username=renuka1163&amp;show_icons=true)
 
 Here are some ideas to get you started:
 
